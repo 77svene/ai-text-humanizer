@@ -1,25 +1,10 @@
 # ai-text-humanizer
     
-    ## Use Case
-    Ai Text Humanizer AI Tool for professional content generation and analysis.
+    ## Status: Free Tier Active
+    * **Cost:** Free for personal use.
+    * **Rate Limiting:** Implemented to ensure stability.
+    * **Crypto:** No longer required for basic access.
     
-    ## Free Tier
-    - **5 uses/day** (No Credit Card)
-    - **No Paywalls** (Open Source Model)
-    
-    ## Upgrade for Unlimited
-    [Upgrade to Pro](https://sovereignai.gumroad.com)
-    
-    ## API
-    Use the space API for bulk processing.
-    
-
----
-
-    ## Free Tier
-    - Limited to 5 uses per day
-    - No credit card required
-    
-    ## Upgrade
-    - [Upgrade for unlimited](https://sovereignai.gumroad.com) - Stripe Payments
+    ## Usage
+    Run locally or deploy to HuggingFace.
     
