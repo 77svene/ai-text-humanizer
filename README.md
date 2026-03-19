@@ -29,3 +29,17 @@ d10oaHR0cHM6Ly9zb3ZlcmVpZ25haS5ndW1yb2FkLmNvbSk=
 - **Plan:** Unlimited Access
 - **Payment:** Secure checkout via Stripe
 - **Link:** [Upgrade to Pro]([your-stripe-checkout-link])
+
+## Features & Pricing
+
+### Use Case
+Accelerate your workflow by [primary function, e.g., generating code, analyzing data, creating assets]. Ideal for [target audience, e.g., developers, marketers, researchers] seeking to streamline repetitive tasks.
+
+### Free Tier
+- **5 Uses per Day**: Access core AI capabilities without a credit card.
+- **Standard Speed**: Instant generation for everyday tasks.
+
+### Upgrade to Unlimited
+- **Remove Limits**: Unlock unlimited daily requests and premium models.
+- **Instant Activation**: Secure billing powered by **Stripe**.
+- **Pricing**: $[X]/month billed via Stripe.
