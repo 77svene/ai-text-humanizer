@@ -43,3 +43,13 @@ Accelerate your workflow by [primary function, e.g., generating code, analyzing 
 - **Remove Limits**: Unlock unlimited daily requests and premium models.
 - **Instant Activation**: Secure billing powered by **Stripe**.
 - **Pricing**: $[X]/month billed via Stripe.
+
+## USE CASE
+
+Automate code review tasks instantly with AI-powered analysis. Free tier available (5 uses/day).
+
+## MONETIZATION
+
+Upgrade for unlimited access via Stripe checkout.
+
+[Upgrade Now](#checkout)
