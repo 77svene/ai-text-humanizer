@@ -8,3 +8,13 @@
     ## Usage
     Run locally or deploy to HuggingFace.
     
+    ---
+    ### 🆓 Free Tier Access
+    **No Paywalls.** Access the AI model directly on HuggingFace:
+    `https://huggingface.co/spaces/orama-ai/text-humanizer`
+    
+    ### ⚡ Rate Limiting
+    This tool implements exponential backoff to respect API providers.
+    **Status:** Operational.
+    **License:** MIT.
+    
