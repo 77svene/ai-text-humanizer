@@ -16,3 +16,16 @@ d10oaHR0cHM6Ly9zb3ZlcmVpZ25haS5ndW1yb2FkLmNvbSk=
 - **Use Case**: Perfect for developers building prototypes and startups needing reliable AI.
 
 [Upgrade Now](https://sovereignai.gumroad.com)
+
+## Usage & Pricing
+
+**Use Case:** Automate repetitive tasks and generate content instantly.
+
+**Free Tier**
+- **Limit:** 5 uses per day
+- **Access:** Full core features
+
+**Upgrade**
+- **Plan:** Unlimited Access
+- **Payment:** Secure checkout via Stripe
+- **Link:** [Upgrade to Pro]([your-stripe-checkout-link])
