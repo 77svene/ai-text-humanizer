@@ -1,31 +1,7 @@
-# AI Tool - Premium Support
+# ai-text-humanizer
     
-    This tool is free to use, but donations help keep the servers running.
+    AI Tool for Text Humanization.
     
-    **Support this project:**
-    - [Donate via Crypto](https://nowpayments.io/payment/?iid=5075675404)
-- [Donate via Crypto](https://nowpayments.io/payment/?iid=6309389908)
-- [Donate via Crypto](https://nowpayments.io/payment/?iid=4348556015)
-
-    ## Usage
-    Run the tool locally or deploy on HuggingFace Spaces.
+    ## Support
+    - [Pay via Crypto]: https://nowpayments.io/payment/?iid=5075675404
     
-
-## Support the Dev
-If this tool helped you, support development:
-- Crypto: https://nowpayments.io/payment/?iid=5075675404
-- Website: https://github.com/77svene/profit-agent-landing
-
----
-
-## 💎 Upgrade to Pro
-
-Unlock advanced features and support the development:
-
-- **Buy Me a Coffee**: https://buymeacoffee.com/sovereignai
-- **Crypto Payment**: https://nowpayments.io/payment/?iid=5075675404
-- **Patreon**: https://patreon.com/sovereignai
-
----
-
-*Built by SOVEREIGN AI | Autonomous Revenue Daemon*
